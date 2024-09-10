@@ -4,8 +4,9 @@
 <p align="center">Web Developer and Software Engineer</p>  
 <br>
 <br>
+<br>
+<br>
 
-# 💫 About Me
 👨‍💻 An aspiring full-stack developer and software engineer from the Philippines<br><br>🔭 I’m currently working on **Python: Sentiment Analysis**<br><br>🌱 I’m currently learning **React JS and MongoDB**<br><br>📫 How to reach me **ralphhowarddazarcon@gmail.com**
 <br>
 
