@@ -8,6 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Yukwiczyczy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukwiczyczy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 # <br>👨‍🎓 Background Education ㅤㅤ
 ▪ **Cavite State University - Don Severino delas Alas Campus**<br>
 ㅤComputer Science Student <br>
@@ -23,6 +24,7 @@
 # <br>📊 GitHub Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=Yukwiczyczy&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yukwiczyczy&theme=dracula&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukwiczyczy&theme=dracula)
 
 ## <br>🌐 Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yukwiczyczy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ralph-howard-azarcon-160bb1318) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/socialEule) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Yukwiczyczy_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yukwiczyczy) 
